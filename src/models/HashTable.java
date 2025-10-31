@@ -81,7 +81,7 @@ public abstract class HashTable {
         return distribution;
     }
     
-    // Getters
+    // Getter
     public int getTotalCollisions() {
         return totalCollisions;
     }
